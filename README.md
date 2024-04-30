@@ -1,4 +1,4 @@
-<h1>Cut and Mine 🪓⛏️</h1>
+<h1 align="left">Cut and Mine 🪓⛏️</h1>
 
 <h2>How to play</h2>
 
